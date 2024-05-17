@@ -1,4 +1,3 @@
-import { equal } from "assert";
 import { checkLetters } from "./checkLetters";
 import { test, expect } from "@jest/globals";
 
