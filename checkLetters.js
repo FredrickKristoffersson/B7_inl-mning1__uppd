@@ -51,9 +51,3 @@ export function checkGuess(guess, correctWord) {
 
   return resultArray;
 }
-
-// Exempelanvändning:
-const guess = "hallå";
-const correctWord = "cykla";
-const result = checkGuess(guess, correctWord);
-console.log(result);
